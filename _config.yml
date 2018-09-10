@@ -18,11 +18,11 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 
 # SNS settings
 RSS: false
-# weibo_username:     RickyLamn
-zhihu_username:     RickyLam
+weibo_username:     RickyLamn
+zhihu_username:     Ricky Lam
 github_username:    RickyLamn
-facebook_username:  RickyLamn
-jianshu_username:   RickyLamn
+facebook_username:  Ricky Lam
+#jianshu_username:   0
 #twitter_username:   RickyLamn
 
 
