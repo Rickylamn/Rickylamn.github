@@ -96,19 +96,13 @@ service-worker: true
 
 
 
-# Friends
-friends: [
+# Links
+Links: [
     {
         title: "微博",
         href: "https://weibo.com/5263655872/"
     },{
         title: "facebook",
         href: "https://www.facebook.com/people/Ricky-Lam/100009612367377"
-    },{
-#        title: "Apple",
-#       href: "https://apple.com"
-    },{
-#        title: "Apple Developer",
-#        href: "https://developer.apple.com/"
     }
 ]
