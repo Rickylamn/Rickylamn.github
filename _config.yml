@@ -99,11 +99,11 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
+        title: "微博",
+        href: "https://weibo.com/5263655872/"
     },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+        title: "facebook",
+        href: "https://www.facebook.com/people/Ricky-Lam/100009612367377"
     },{
         title: "Apple",
         href: "https://apple.com"
